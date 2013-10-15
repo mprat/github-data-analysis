@@ -1,0 +1,9 @@
+start time = 1381835974.19
+mojombo/grit, 2256.4
+wycats/merb-core, 1820.0
+rubinius/rubinius, 20850.6
+mojombo/god, 2058.4
+vanpelt/jsawesome, 31.0
+wycats/jspec, 49.0
+[(49.0, u'wycats/jspec'), (1820.0, u'wycats/merb-core'), (2058.4, u'mojombo/god'), (2256.4, u'mojombo/grit'), (20850.6, u'rubinius/rubinius')]
+total time = 1104.1865828

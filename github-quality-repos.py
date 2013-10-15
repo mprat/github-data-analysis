@@ -50,9 +50,10 @@ if __name__=="__main__":
 	print "start time = ", start_time
 	for repo in allrepos:
 		full_name = repo.full_name
+		print full_name	
 		(sorted_rank, sorted_name) = try_rating_calc(repo, sorted_rank, sorted_name)
-		i += 1
-		if i > 5:
-			break
+		#i += 1
+		#if i > 5:
+		#	break
 	print zip(sorted_rank, sorted_name)
 	print "total time = ", time.time() - start_time
