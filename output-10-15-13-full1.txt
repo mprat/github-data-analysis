@@ -1,0 +1,10 @@
+start time = 1381925101.58
+mojombo/grit, 2257.4
+wycats/merb-core, 1820.0
+start sleep time = 1381926102.18
+end sleep time = 1381926402.28
+start sleep time = 1381926922.85
+end sleep time = 1381927222.98
+start sleep time = 1381927463.72
+end sleep time = 1381927763.77
+rubinius/rubinius, 20893.2
